@@ -1,0 +1,20 @@
+Lines of code metrics,ÖÜÈý,  10ÔÂ 2021 19:36:08 CST
+Package,LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec)
+"",953,953,892,892,61,61
+
+Module,L(Groovy),L(HTML),L(J),L(KT),L(SCALA),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"local_git_assignment1",0,"2,541",771,0,0,174,"3,802",892,61,"3,681",845,48
+
+FileType,LOC,NCLOC
+".gitignore (GitIgnore)",3,3
+"CSS",27,27
+"HTML","2,541","2,541"
+"Java",771,711
+"Markdown",158,158
+"Text",61,n/a
+"XML",174,174
+"YAML",67,67
+
+Project,L(Groovy),L(HTML),L(J),L(KT),L(SCALA),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"project",0,"2,541",771,0,0,174,"3,802",892,61,"3,681",845,48
+
