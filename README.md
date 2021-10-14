@@ -4,7 +4,8 @@
 ## Name and ID
 Jamie Wang--20007884
 
-##Sorry: during the second submission, I made a mistake in modifying
+##Sorry
+During the second submission, I made a mistake in modifying
  the READme in the remote library, which caused an error in the second 
 upload when the remote library did not match the local library, 
 so I created a new library and resubmitted the job(First) and
@@ -12,6 +13,12 @@ so I created a new library and resubmitted the job(First) and
 
 Previous submissions are recorded at: >
 https://github.com/20007884/251-Assignment1.git
+
+My test class for Assignment 1 ran successfully at first, but after completing all the tasks, 
+there was a very confusing problem and it skipped my tests (the problem was:
+There were no tests and Internal Error occurred.),I did not solve this problem when I checked 
+online and asked my classmates, so my CI also showed that the test failed.
+But there was nothing wrong with my test class.
 
 ## How to run and folders contained
 Required Java version 1.8 at least.
