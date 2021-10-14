@@ -4,7 +4,7 @@
 ## Name and ID
 Jamie Wang--20007884
 
-##Sorry
+## Sorry
 During the second submission, I made a mistake in modifying
  the READme in the remote library, which caused an error in the second 
 upload when the remote library did not match the local library, 
